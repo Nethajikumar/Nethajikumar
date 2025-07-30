@@ -1,14 +1,14 @@
-## Hi there 👋
+Hi there 👋
 
-# 👋 Hey there, I'm Nethaji K !
+👋 Hey there, I'm Nethaji K !
 
-### 🚀 Web Developer | Java Enthusiast | Lifelong Learner
+🚀 Web Developer | Java Enthusiast | Lifelong Learner
 
 I’m a passionate developer focused on building clean, responsive, and functional web applications. I enjoy working with **Java**, **Spring Boot**, and **modern front-end tools like React**. I'm always looking to grow and contribute to meaningful projects.
 
 ---
 
-## 🧰 Tech Stack
+🧰 Tech Stack
 
 **Frontend:**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +28,7 @@ I’m a passionate developer focused on building clean, responsive, and function
 
 ---
 
-## 📌 Projects Worth Checking
+📌 Projects Worth Checking
 
 - 🎯 **[Spring Boot To-Do App](https://github.com/Nethajikumar/springboot-todo-crud)** — A CRUD app with RESTful APIs and Java
 - 🎵 **[Spotify Clone](https://github.com/Nethajikumar/spotify-clone)** — A simple front-end Spotify UI clone using HTML, CSS & JS

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hey there, I'm Nethaji Kumar!
+# 👋 Hey there, I'm Nethaji K !
 
 ### 🚀 Web Developer | Java Enthusiast | Lifelong Learner
 

@@ -32,6 +32,7 @@ I’m a passionate developer focused on building clean, responsive, and function
 
 - 🎯 **[Spring Boot To-Do App](https://github.com/Nethajikumar/springboot-todo-crud)** — A CRUD app with RESTful APIs and Java
 - 🎵 **[Spotify Clone](https://github.com/Nethajikumar/spotify-clone)** — A simple front-end Spotify UI clone using HTML, CSS & JS
+- 🌦️ **[Weather App](https://github.com/Nethajikumar/weatherapp)** - A modern, responsive weather forecast web application built using **React.js** and the **OpenWeatherMap API**. Enter any city name to get real-time weather updates, including temperature, humidity, wind speed, and condition icons.
 - 🧪 More coming soon...
 
 ---
